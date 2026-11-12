@@ -1,0 +1,20 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local settings
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Original course report (keep locally)
+retail_sales_report.pdf
+K234131595.pdf
+
+# Generated plots
+Q1b_Time_Series.png
+Q1c_Outlier_Analysis.png
